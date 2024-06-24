@@ -14,6 +14,8 @@
 - [Index of Skill Types](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/list-of-skills.html)
 - [Skill Certification Requirements](https://developer.amazon.com/en-US/docs/alexa/custom-skills/certification-requirements-for-custom-skills.html)
 - [Beginner's guide to building Alexa skills](https://developer.amazon.com/en-US/alexa/trainings_and_workshops)
+- [Alexa Skills Toolkit for Visual Studio Code](https://developer.amazon.com/en-US/docs/alexa/ask-toolkit/get-started-with-the-ask-toolkit-for-visual-studio-code.html)
+- [ASK CLI](https://developer.amazon.com/de-DE/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html)
 - [Alexa Skills Store](https://www.amazon.com/alexa-skills/b?ie=UTF8&node=13727921011)
 
 ## Notes
@@ -35,3 +37,15 @@
 4. The POST request body contains parameters for your skill to understand the request, perform its logic, and generate a response
 
 - note: project will utilize _pre-built voice interaction model_
+
+### Selecting and Formating the Invocation Name/Phrase
+
+- The skill invocation name is OFTEN the same as the skill name, although not required
+- Enter the invocation name in all lower-case, space and apostrophes as needed
+- DO NOT USE: names of people, places, and brands -- PCExpress (is not suitable)
+
+### Intent and Utterance
+
+- An utterance is a user request
+- An user 'utterance' maps to an 'intent'
+- For example, user: 'alexa, < insert utterance/skill >' -- this request will map to a single intent 'LaunchIntentRequest' that will result in a response
