@@ -15,8 +15,10 @@
 - [Skill Certification Requirements](https://developer.amazon.com/en-US/docs/alexa/custom-skills/certification-requirements-for-custom-skills.html)
 - [Beginner's guide to building Alexa skills](https://developer.amazon.com/en-US/alexa/trainings_and_workshops)
 - [Alexa Skills Toolkit for Visual Studio Code](https://developer.amazon.com/en-US/docs/alexa/ask-toolkit/get-started-with-the-ask-toolkit-for-visual-studio-code.html)
-- [ASK CLI](https://developer.amazon.com/de-DE/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html)
+- [ASK CLI - getting started](https://developer.amazon.com/de-DE/docs/alexa/smapi/quick-start-alexa-skills-kit-command-line-interface.html)
+- [ASK CLI - mini tutorial](https://www.youtube.com/watch?v=Z1pVgsAKmYI)
 - [Alexa Skills Store](https://www.amazon.com/alexa-skills/b?ie=UTF8&node=13727921011)
+- [Tips for writing Utterance](https://alexa.sana.ai/s/30MdMhV0h_ea/file:W65x6NwKWWQU)
 
 ## Notes
 
