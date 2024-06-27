@@ -8,6 +8,8 @@
 
 ## Resources
 
+- [Alexa Developer Portal](https://developer.amazon.com/en-US/alexa)
+- [Alexa Solution Provider](https://developer.amazon.com/en-US/alexa/solution-providers)
 - [Alexa Skill Kit (ASK) Index](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/what-is-the-alexa-skills-kit.html#:~:text=Skills%20are%20like%20apps%20for,to%20control%20cloud%2Dconnected%20devices.)
 - [What is the ASK](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/what-is-the-alexa-skills-kit.html)
 - [ASK Glossary](https://developer.amazon.com/en-US/docs/alexa/ask-overviews/alexa-skills-kit-glossary.html)
@@ -19,6 +21,8 @@
 - [ASK CLI - mini tutorial](https://www.youtube.com/watch?v=Z1pVgsAKmYI)
 - [Alexa Skills Store](https://www.amazon.com/alexa-skills/b?ie=UTF8&node=13727921011)
 - [Tips for writing Utterance](https://alexa.sana.ai/s/30MdMhV0h_ea/file:W65x6NwKWWQU)
+- [How to Handle Requests - video](https://res.cloudinary.com/sana-ai/video/upload/f_mp4,q_auto,vc_auto/sierra-files/b0832cc0-f3df-4fc2-97d1-a9c361edb2a1/05563e46-af77-42a1-b8c4-a5d81850a356)
+- [Template Helper Function](https://alexa.sana.ai/s/30MdMhV0h_ea/file:b3_BiRYbhcxP)
 
 ## Notes
 
